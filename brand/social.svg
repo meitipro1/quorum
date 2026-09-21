@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#12141A"/><stop offset="1" stop-color="#0A0B0E"/></linearGradient></defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1280" height="6" fill="#5B8DEF"/>
+  <g transform="translate(96,96) scale(1.4)">
+  <rect width="100" height="100" rx="18" fill="#0C0D10"/>
+  <g fill="none" stroke="#5B8DEF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M28 28 L50 58"/>
+    <path d="M50 28 L50 58"/>
+    <path d="M72 28 L50 58"/>
+  </g>
+  <line x1="28" y1="74" x2="72" y2="74" stroke="#E8E6E1" stroke-width="4"
+        stroke-linecap="round" opacity="0.85"/>
+</g>
+  <text x="96" y="352" font-family="Inter, Helvetica Neue, Arial, sans-serif"
+        font-size="76" font-weight="700" letter-spacing="-2.6" fill="#E8E6E1">quorum</text>
+  <text x="96" y="410" font-family="Inter, Helvetica Neue, Arial, sans-serif"
+        font-size="27" fill="#9AA0A8">One question, several sources, one answer or none.</text>
+  <text x="96" y="452" font-family="Inter, Helvetica Neue, Arial, sans-serif"
+        font-size="27" fill="#9AA0A8">A single dissent blocks, and nobody curates the quorum.</text>
+  <line x1="96" y1="520" x2="1184" y2="520" stroke="#232830" stroke-width="1"/>
+  <text x="96" y="562" font-family="ui-monospace, Menlo, monospace" font-size="21"
+        fill="#5B8DEF">A GenLayer Intelligent Contract primitive</text>
+  <text x="1184" y="562" text-anchor="end" font-family="ui-monospace, Menlo, monospace"
+        font-size="21" fill="#5B626B">InferNode</text>
+</svg>

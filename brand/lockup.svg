@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 100" width="460" height="100" role="img" aria-label="quorum">
+
+  <rect width="100" height="100" rx="18" fill="#0C0D10"/>
+  <g fill="none" stroke="#5B8DEF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M28 28 L50 58"/>
+    <path d="M50 28 L50 58"/>
+    <path d="M72 28 L50 58"/>
+  </g>
+  <line x1="28" y1="74" x2="72" y2="74" stroke="#E8E6E1" stroke-width="4"
+        stroke-linecap="round" opacity="0.85"/>
+
+  <text x="124" y="64" font-family="Inter, Helvetica Neue, Arial, sans-serif"
+        font-size="42" font-weight="700" letter-spacing="-1.4" fill="#E8E6E1">quorum</text>
+</svg>

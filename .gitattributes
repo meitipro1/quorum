@@ -1,0 +1,9 @@
+# The contract is deployed by pasting these exact bytes, and the reviewer diffs
+# what is on chain against this file. Pin line endings so a Windows clone does
+# not rewrite them.
+*.py  text eol=lf
+*.sh  text eol=lf
+*.md  text eol=lf
+*.svg text eol=lf
+*.yaml text eol=lf
+*.png binary

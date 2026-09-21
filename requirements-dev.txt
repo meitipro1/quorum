@@ -1,0 +1,5 @@
+# Unit and end-to-end tests need only this:
+pytest>=8.0
+
+# Studio integration tests additionally need the GenLayer test runner.
+genlayer-test
